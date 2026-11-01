@@ -6,7 +6,7 @@ A Databricks dashboard and gold data model that compare NYC 311 complaint volume
 
 ## Question answered
 
-Which parts of NYC file more 311 complaints than their population would suggest, and how do complaint categories move with daily maximum temperature?
+How do complaint categories move with daily maximum temperature?
 
 Raw complaint counts reward large populations. This project divides by population (complaints per 1,000 residents) so areas can be compared on rate, not volume.
 
